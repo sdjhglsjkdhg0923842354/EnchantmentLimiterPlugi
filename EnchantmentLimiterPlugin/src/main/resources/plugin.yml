@@ -1,0 +1,4 @@
+name: EnchantmentLimiterPlugin
+main: com.example.enchantmentlimiter.EnchantmentLimiterPlugin
+version: 1.0
+api-version: 1.16
